@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:clickable="true" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center_vertical" android:background="@color/quantum_grey300" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ImageView android:layout_gravity="center" android:id="@id/button" android:background="@drawable/watch_card_expand_collapse_button_outline" android:layout_width="36.0dip" android:layout_height="36.0dip" android:src="@drawable/ic_drawer_expand" android:scaleType="centerCrop" android:contentDescription="@string/accessibility_expand_content" style="@style/WatchCardExpandCollapseButton" />
+</FrameLayout>

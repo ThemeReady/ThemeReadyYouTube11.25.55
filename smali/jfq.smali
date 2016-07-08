@@ -1,0 +1,14 @@
+.class interface abstract Ljfq;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public abstract a(Ljava/lang/String;Lwxs;)V
+.end method
+
+.method public abstract a(Lwxs;)V
+.end method
+
+.method public abstract a()Z
+.end method
