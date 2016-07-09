@@ -5,5 +5,5 @@
     <FrameLayout android:id="@id/mdx_fragment_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     <com.google.android.apps.youtube.app.ui.bottomui.BottomUiContainer android:layout_gravity="bottom|center" android:id="@id/bottom_ui_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     <include layout="@layout/include_memory_monitor" />
-    <com.google.android.apps.youtube.app.ui.PivotTabsBar android:layout_gravity="bottom|center" android:id="@id/pivot_bar" android:background="@color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
+    <com.google.android.apps.youtube.app.ui.PivotTabsBar android:layout_gravity="bottom|center" android:id="@id/pivot_bar" android:background="@color/primary_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
 </com.google.android.apps.youtube.app.ui.AccessibilityLayerLayout>
